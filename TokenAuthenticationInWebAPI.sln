@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenAuthenticationInWebAPI", "TokenAuthenticationInWebAPI.csproj", "{B772D57C-B79D-46ED-857D-E03C83894129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshTokenClient1", "RefreshTokenClient1\RefreshTokenClient1.csproj", "{4F859850-1365-4498-A46C-4F0E49B8A3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B772D57C-B79D-46ED-857D-E03C83894129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B772D57C-B79D-46ED-857D-E03C83894129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B772D57C-B79D-46ED-857D-E03C83894129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B772D57C-B79D-46ED-857D-E03C83894129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F859850-1365-4498-A46C-4F0E49B8A3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F859850-1365-4498-A46C-4F0E49B8A3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F859850-1365-4498-A46C-4F0E49B8A3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F859850-1365-4498-A46C-4F0E49B8A3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C26397B-B707-49CB-A2B0-6D73F5D2D379}
+	EndGlobalSection
+EndGlobal
